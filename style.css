@@ -1,0 +1,75 @@
+
+
+body{
+    background-color:#000000;
+    margin:0px;
+}
+*{
+border:4px solid #d6df63;
+border-radius:20px;
+
+}
+.Intro{
+    color:rgb(20,170,255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display:flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+    padding:20px;
+    margin:2px;
+    border-radius:5px;
+}
+.First{
+    color: #22FF99;  
+    font-size:20px;
+    padding:20px;
+    margin:2px;
+    border-radius:5px; 
+    width:310px;
+}
+.Second{
+    color:#22FF99;
+    font-size:20px; 
+    padding:20px;
+    margin:2px;
+    border-radius:5px;
+    width:300px
+
+}
+.Third{
+    color:#22FF99;  
+    font-size:20px; 
+    padding:20px;
+    margin:2px;
+    border-radius:5px;
+    width:300px;
+}
+.Four{
+    color:#22FF99;
+    font-size:20px;
+    padding:20px;
+    margin:2px;
+    border-radius:5px;
+    width:300px; 
+}
+.Five{
+    color:#22FF99;  
+    font-size:20px; 
+    padding:20px;
+    margin:2px;
+    border-radius:5px;
+    width:300px;
+}
+.Six{
+    color:#22FF99;
+    font-size:20px;
+    padding:20px;
+    margin:2px;
+    border-radius:5px;
+    width:300px; 
+}
+
+h4{
+    color:#2380FF;
+}
+
